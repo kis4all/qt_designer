@@ -1,0 +1,3 @@
+start /b pyqt6-tools designer
+
+pyside6-uic main_monitor.ui -o main_monitor.py
